@@ -37,6 +37,9 @@ One challenge is handling the dataset's diversity of languages and dialects, as 
 **References**: -   
 
 Zhang, Y., Lan, M., Wu, Y., & Li, J. (2015). A Sensitivity Study of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification. arXiv preprint arXiv:1510.03820.
+
 Han, B., Kim, B., & Hahn, S. (2020). An Efficient Approach for Multi-language Identification Based on Deep Learning with Low-Resource Languages. Information Sciences, 541, 303-317.
+
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. Advances in neural information processing systems, 26, 3111-3119.
+
 This project proposal outlines the objectives, methodologies, and considerations for developing a language detection model using Multinomial Naïve Bayes. Through rigorous analysis and ethical considerations, the project aims to contribute to the advancement of language processing technologies while ensuring fairness and accuracy in language identification.
