@@ -17,9 +17,11 @@ The analysis will involve preprocessing the text data, including tokenization an
 Ethical Considerations: -
     Privacy concerns: Ensure text data is handled securely, and any personally identifiable information is anonymized or 
     removed to protect user privacy.
+    
     Bias mitigation: Identify and mitigate biases in the training data to prevent unfair or inaccurate language detection 
     results. This may involve carefully selecting representative training samples and applying techniques such as data 
     augmentation or bias correction algorithms.
+    
     Equitable treatment: Ensure that the language detection model provides equitable treatment across languages, regardless 
     of their representation in the training data. This includes monitoring the model's performance in different languages 
     and addressing potential disparities or biases. 
