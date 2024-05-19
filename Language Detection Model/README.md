@@ -10,7 +10,7 @@ The project addresses the need for accurate and efficient language detection.
 
 **Research Questions**: -
 
-1)How can we accurately detect the language of a given text?
+1)How can we accurately detect the language of a given text?                                                                 
 2)What features are most informative for language identification?
 
 **Datasets**: -
