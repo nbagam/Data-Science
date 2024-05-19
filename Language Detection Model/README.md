@@ -6,7 +6,12 @@ This project aims to develop a language detection machine learning model using t
 
 **Business Problem**: -
 
-The project addresses the need for accurate and efficient language detection. The key research questions include: How can we accurately detect the language of a given text? What features are most informative for language identification?
+The project addresses the need for accurate and efficient language detection. 
+
+**Research Questions**: -
+
+1)How can we accurately detect the language of a given text?
+2)What features are most informative for language identification?
 
 **Datasets**: -
 
