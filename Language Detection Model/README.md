@@ -19,7 +19,7 @@ I plan to utilize publicly available GIT hub CSV files. The dataset contains tex
 
 https://github.com/nbagam/Data-Science/blob/main/Language%20Detection%20Model/Dataset/language_dataset.csv
 
-Methods: -
+**Methods**: -
 The analysis will involve preprocessing the text data, including tokenization and vectorization. The Multinomial Naïve Bayes algorithm will be implemented for language detection, leveraging the probability distributions of word occurrences in different languages. Model performance will be evaluated using accuracy, precision, recall, and F1-score metrics.
 
 **Ethical Considerations**: -
