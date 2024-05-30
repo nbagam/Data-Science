@@ -33,6 +33,8 @@ Dealing with outliers and anomalies in the sales data that may affect forecast a
 Evaluating model performance and ensuring the robustness of forecasts across different time periods and product categories.                                          
                                              
 **References:-**
-Kharwal, A. (2022, February 22). Online Payments Fraud Detection with Machine Learning. The Clever Programmer. Link
+Kharwal, A. (2022, February 22). Online Payments Fraud Detection with Machine Learning. The Clever Programmer.  
+
 Raj, S.B.E.; Portia, A.A. Analysis on credit card fraud detection methods. In Proceedings of the 2011 International Conference on Computer, Communication and Electrical Technology (ICCCET), Tirunelveli, India, 18–19 March 2011; pp. 152–156.
+
 Alsenaani, Khalifa, "Fraud Detection in Financial Services using Machine Learning" (2022). Thesis. Rochester Institute of Technology.
