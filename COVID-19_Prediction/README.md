@@ -11,10 +11,10 @@ What factors influence the transmission and severity of COVID-19 over time and a
 
 **Datasets**
 
-The project utilizes multiple datasets from various sources, including public health databases and COVID-19 tracking websites. Here are some potential sources:
+The project utilizes multiple datasets from various sources, including public health databases and COVID-19 tracking websites. Here are some kaggle sources:
 
-Johns Hopkins University COVID-19 Data
-Our World in Data COVID-19 Dataset
+[Johns Hopkins University COVID-19 Data
+Our World in Data COVID-19 Dataset](https://api.covid19india.org/csv/latest/state_wise_daily.csv)
 
 **Features Used for Analysis:**
 
