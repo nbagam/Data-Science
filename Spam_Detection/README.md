@@ -24,8 +24,7 @@ SpamAssassin Public Corpus
 
 Kaggle Datasets
 
-**for the source which I have used can find in dataset folder.
-**
+**for the source which I have used can find in dataset folder.**
 
 **Features Used for Analysis:**
 
