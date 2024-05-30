@@ -40,8 +40,7 @@ Develop a user-friendly interface for easy deployment and usage.
 
 Clone the repository:
 
-git clone https://github.com/username/housing-price-prediction.git
-
+git clone [https://github.com/username/housing-price-prediction.git]
 Run the notebook or Python script to train the model and make predictions.
 
 **Contributors**
