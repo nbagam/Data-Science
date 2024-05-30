@@ -1,0 +1,1 @@
+https://api.covid19india.org/csv/latest/state_wise_daily.csv
