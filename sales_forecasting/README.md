@@ -5,15 +5,18 @@ The furniture industry faces challenges in accurately predicting future sales, l
 
 **Research Questions:-**
 How can time series analysis techniques be effectively utilized to forecast furniture sales?
+
 What are the key factors influencing furniture sales trends over time?
-Datasets
+
+**Datasets:-**
+
 The project utilizes a historical sales dataset sourced from https://www.kaggle.com/datasets/vivek468/superstore-dataset-final , containing information on furniture sales over a specified time period.
 
 Features Used for Forecasting:
 
-date: Date of the sales record                                                                                                                                       
-product_id: Unique identifier for the furniture product                                                                                                              
-sales_quantity: Number of units sold                                                                                                                                 
+date: Date of the sales record                                                                                                                                         
+product_id: Unique identifier for the furniture product                                                                                                               
+sales_quantity: Number of units sold                                                                                                                                  
 price: Price of the furniture item at the time of sale                                                                                                               
                                                                                                                                                                                                                                                                                                                                                                                                                       
 **Methods:-**
