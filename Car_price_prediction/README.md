@@ -23,13 +23,15 @@ The final Random Forest model demonstrates satisfactory accuracy in predicting t
 Explore feature importance analysis to understand the significant factors affecting the sale price of used cars.
 Conduct further experiments with different variations of the Random Forest algorithm to enhance predictive performance.
 Develop a user-friendly interface for easy deployment and usage of the trained Random Forest model.
+
 **Usage**
+
 Clone the repository:
-bash
-Copy code
 git clone [https://github.com/nbag/used-car-price-prediction.git]
 
 Run the notebook or Python script to train the model and make predictions.
+
 Contributors
 Naveen Bagam
+
 Feel free to contribute to this project by opening issues or submitting pull requests.
