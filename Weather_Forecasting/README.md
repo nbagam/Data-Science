@@ -14,9 +14,10 @@ What atmospheric variables are most influential in determining weather patterns 
 
 The project utilizes historical weather data from various reliable sources such as national weather services and global weather databases. Here are some potential sources:
 
-NOAA National Centers for Environmental Information (NCEI)
+[NOAA National Centers for Environmental Information (NCEI)
 Global Historical Climatology Network (GHCN)
-OpenWeatherMap API
+OpenWeatherMap API](https://www.kaggle.com/code/allusai/naive-bayes-and-random-forest/input)
+
 Features Used for Forecasting:
 
 date: Date of the weather record
