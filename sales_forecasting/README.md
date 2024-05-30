@@ -14,7 +14,7 @@ Features Used for Forecasting:
 date: Date of the sales record
 product_id: Unique identifier for the furniture product
 sales_quantity: Number of units sold
-price: Price of the furniture item at the time of sale
+price: Price of the furniture item at the time of sale                                                                                                                                                                                                          
 **Methods:-**
 The project employs various time series forecasting models, including ARIMA, SARIMA, and Prophet, to predict future furniture sales. Model selection and hyperparameter tuning techniques are utilized to optimize forecast accuracy.
 
